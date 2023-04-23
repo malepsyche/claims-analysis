@@ -6,7 +6,7 @@
 1) To predict whether a driver will make an insurance claim
 2) To predict the claim cost for drivers who makes claim(s)
 
-Our dataset was taken from Kaggle:
+The dataset was taken from Kaggle:
 https://www.kaggle.com/datasets/lakshmanraj/vehicle-insurance-policy
 
 Original dataset    : raw.csv                                       
