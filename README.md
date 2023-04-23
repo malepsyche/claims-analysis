@@ -1,4 +1,4 @@
-# SC1015 Mini Project
+# Claims Analysis
 
 **Goal:** To help vehicle insurance companies issue different insurance premium according to the different types of driver
 
@@ -9,8 +9,8 @@
 Our dataset was taken from Kaggle:
 https://www.kaggle.com/datasets/lakshmanraj/vehicle-insurance-policy
 
-Original dataset    : Vehicle_policies_2020.csv                                       
-Cleaned dataset     : Prepped.csv
+Original dataset    : raw.csv                                       
+Cleaned dataset     : clean.csv
 
 Please view the notebooks in the following order:                                    
 1) Data Preparation                                                                  
@@ -352,7 +352,6 @@ Possible improvements:
 
 - Data Preparation            : Jie En                                                          
 - EDA                         : Benjamin                                                                
-- Machine Learning            : Jun Yu                                                                  
-- Video                       : Everyone                                                                         
+- Machine Learning            : Jun Yu                                                                                                                                         
 - README                      : Everyone                                                                  
 
